@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable r
+drawable star
+id button
+id r
+id toast
+layout activity_main
+layout toast_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Lab5
+style Theme.Lab5
+xml backup_rules
+xml data_extraction_rules
